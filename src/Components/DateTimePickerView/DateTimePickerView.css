@@ -1,0 +1,13 @@
+#DateTimePickerView {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Title {
+    display: flex;
+}
+
+#Calendar {
+    display: flex;
+}
